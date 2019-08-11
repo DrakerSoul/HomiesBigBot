@@ -60,7 +60,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === '!Hulyhan') {
-    	message.reply('Here you go, good homie: Here is Controllng (Girl Filter) https://cdn.discordapp.com/attachments/603463823264841728/604938174850138141/Snapchat-185134926.png');
+    	message.reply('Here you go, good homie: Here is Hulyhan https://cdn.discordapp.com/attachments/603438264766038017/605308211997835356/image0.png');
   	}
 });
 
@@ -126,7 +126,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === '!hulyhan') {
-    	message.reply('Here you go, good homie: Here is Controllng (Girl Filter) https://cdn.discordapp.com/attachments/603463823264841728/604938174850138141/Snapchat-185134926.png');
+    	message.reply('Here you go, good homie: Here is Hulyhan https://cdn.discordapp.com/attachments/603438264766038017/605308211997835356/image0.png');
   	}
 });
 
