@@ -136,6 +136,18 @@ client.on('message', message => {
   	}
 });
 
+client.on('message', message => {
+    if (message.content === '!Holy') {
+    	message.reply('Here you go, good homie: Here is Holyoakes https://cdn.discordapp.com/attachments/610117859716235285/610119903617220609/image0.png');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === '!holy') {
+    	message.reply('Here you go, good homie: Here is Holyoakes https://cdn.discordapp.com/attachments/610117859716235285/610119903617220609/image0.png');
+  	}
+});
+
 
 
 
