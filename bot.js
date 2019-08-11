@@ -148,7 +148,6 @@ client.on('message', message => {
   	}
 });
 
-client.user.setGame('watching meek and drak sleep')
 
 
 
