@@ -149,6 +149,22 @@ client.on('message', message => {
 });
 
 
+client.on('message', message => {
+    if (message.content === '!Ghost') {
+    	message.reply('Here you go, good homie: Here is Ghost https://cdn.discordapp.com/attachments/603438020062085125/611061580846727168/image0.jpg');
+  	}
+});
+
+
+
+client.on('message', message => {
+    if (message.content === '!ghost') {
+    	message.reply('Here you go, good homie: Here is Ghost https://cdn.discordapp.com/attachments/603438020062085125/611061580846727168/image0.jpg');
+  	}
+});
+
+
+
 
 
 
