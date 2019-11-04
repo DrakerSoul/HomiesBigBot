@@ -165,6 +165,71 @@ client.on('message', message => {
 
 
 
+client.on('message', message => {
+    if (message.content === '!Isashiki') {
+    	message.reply('Here you go, good homie: Here is Isashiki https://cdn.discordapp.com/attachments/603463823264841728/640824412966486026/image0.png');
+  	}
+});
+
+
+
+
+client.on('message', message => {
+    if (message.content === '!isashiki') {
+    	message.reply('Here you go, good homie: Here is Isashiki https://cdn.discordapp.com/attachments/603463823264841728/640824412966486026/image0.png');
+  	}
+});
+
+
+
+
+client.on('message', message => {
+    if (message.content === '!blacknick') {
+    	message.reply('Here you go, good homie: Here is Isashiki https://cdn.discordapp.com/attachments/603463823264841728/640824412966486026/image0.png');
+  	}
+});
+
+
+
+
+client.on('message', message => {
+    if (message.content === '!mayies') {
+    	message.reply('Here you go, good homie: Here is Mayies https://cdn.discordapp.com/attachments/603463823264841728/640821869393739777/image0.png');
+  	}
+});
+
+
+
+
+client.on('message', message => {
+    if (message.content === '!vincent') {
+    	message.reply('Here you go, good homie: Here is Vincent https://cdn.discordapp.com/attachments/603463823264841728/640823186451333130/image0.png');
+        
+        
+        
+        client.on('message', message => {
+    if (message.content === '!mlk') {
+    	message.reply('Here you go, good homie: Here is mlkowo https://cdn.discordapp.com/attachments/603463823264841728/640824970196549632/image0.png');
+  	}
+});
+        
+        
+        
+         client.on('message', message => {
+    if (message.content === '!hera') {
+    	message.reply('Here you go, good homie: Here is hera from lio https://cdn.discordapp.com/attachments/603463823264841728/640825290507157524/image0.png');
+  	}
+});
+        
+        
+        
+        client.on('message', message => {
+    if (message.content === '!fierce') {
+    	message.reply('Here you go, good homie: Here is fiercearesneal https://cdn.discordapp.com/attachments/603463823264841728/640826011487043585/image0.png');
+  	}
+});
+
+
 
 
 
