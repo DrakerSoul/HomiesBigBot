@@ -28,5 +28,11 @@ client.on('message', message => {
   	}
 });
 
+client.on('message', message => {
+    if (message.content === 'who is worst') {
+    	message.reply('you');
+  	}
+});
+
 // 
 client.login(process.env.BOT_TOKEN);
